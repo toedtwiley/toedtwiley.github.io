@@ -25,11 +25,11 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">Projects</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">Favorite Resources</a>
-      
+
+      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Projects</a>
+      <a class="sidebar-nav-item" href="{{ site.github.repo }}">Resources</a>
+      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav>
-    
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
