@@ -15,6 +15,6 @@ plugins:          [jekyll-paginate]
 
 # About/contact
 author:
-  name:              Your Name
-  url:               https://yoururl.com
-  email:             you@gmail.com
+  name:              Andrew Toedt-Wiley
+  url:               https://www.linkedin.com/in/andrew-toedt-wiley/
+  email:             toedtwiley@gmail.com
