@@ -7,7 +7,7 @@ title:               My Title
 tagline:             My Own Webiste
 description:         Some Amazing Description
 url:                 http://yoururl.com
-baseurl:             'https://toedtwiley.github.io/'
+baseurl:             https://toedtwiley.github.io/
 paginate:            5
 
 # Plugins, Tags, Categories and Analytics  
