@@ -6,7 +6,7 @@ permalink:           /:categories/:year/:month/:day/:title/
 title:               Thee Blog
 tagline:             New site
 description:         The test site
-url:                 http://yoururl.com
+url:                 https://toedtwiley.github.io/
 baseurl:             https://toedtwiley.github.io/
 paginate:            5
 
