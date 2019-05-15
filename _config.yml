@@ -3,9 +3,9 @@
 permalink:           /:categories/:year/:month/:day/:title/
 
 # Setup
-title:               My Title
-tagline:             My Own Webiste
-description:         Some Amazing Description
+title:               Thee Blog
+tagline:             New site
+description:         The test site
 url:                 http://yoururl.com
 baseurl:             https://toedtwiley.github.io/
 paginate:            5
